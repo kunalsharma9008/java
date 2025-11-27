@@ -9,8 +9,8 @@
 
 class Practical14 {
     public static void main(String[] args) {
-        String name = "Saket";
-        String surname = "Singh";
+        String name = "Kunal";
+        String surname = "Sharma";
 
         // Convert to uppercase
         String name1 = name.toUpperCase();
@@ -24,3 +24,4 @@ class Practical14 {
         // System.out.println(nameLower + " " + surnameLower);
     }
 }
+
